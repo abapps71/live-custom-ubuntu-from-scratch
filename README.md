@@ -172,6 +172,7 @@ From this point we will be configuring the `live system`.
        casper \
        lupin-casper \
        discover \
+       dialog \
        laptop-detect \
        os-prober \
        network-manager \
